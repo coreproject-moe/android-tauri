@@ -408,7 +408,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "coreproject-mobile"
+name = "coreproject-android"
 version = "0.0.0"
 dependencies = [
  "serde",

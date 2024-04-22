@@ -6,10 +6,10 @@ plugins {
 
 android {
     compileSdk = 33
-    namespace = "moe.coreproject_mobile"
+    namespace = "moe.coreproject.coreproject_android"
     defaultConfig {
         manifestPlaceholders["usesCleartextTraffic"] = "false"
-        applicationId = "moe.coreproject_mobile"
+        applicationId = "moe.coreproject.coreproject_android"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
